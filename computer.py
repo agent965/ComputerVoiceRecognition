@@ -1,3 +1,4 @@
+# do all the "pip install"s in the terminal of your code editor
 import pyttsx3  # pip install pyttsx3
 import speech_recognition as sr  # pip install speech_recognition
 import datetime
