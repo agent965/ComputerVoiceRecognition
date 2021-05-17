@@ -22,3 +22,4 @@ If you need a tutorial on how to make one yourself: https://www.youtube.com/watc
 
 A more complex version of mine (has way more features): https://github.com/codemaster102/Jarvis
 
+To use this download a python code editor. I recommend PyCharm: https://www.jetbrains.com/pycharm/download/#section=windows
