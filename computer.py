@@ -48,9 +48,6 @@ def run_computer():
         elif 'open google' in command:
             talk("Opening google")
             subprocess.Popen('C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe')
-        elif 'open minecraft' in command:
-            talk('Opening minecraft')
-            subprocess.Popen("C:\\Program Files (x86)\\Minecraft Launcher\\MinecraftLauncher.exe")
         elif 'search google' in command:
             command = command.replace('computer', ' ')
             command = command.replace('search', ' ')
